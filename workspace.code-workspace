@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": ".leetcode",
+			"path": "C:\\Users\\asus\\.leetcode"
+		},
+		{
+			"path": "C:\\Users\\asus\\IdeaProjects\\Pass1Assembler"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp",
+			"array": "cpp",
+			"deque": "cpp",
+			"forward_list": "cpp",
+			"list": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp",
+			"regex": "cpp",
+			"valarray": "cpp",
+			"map": "cpp",
+			"chrono": "cpp",
+			"random": "cpp",
+			"limits": "cpp",
+			"cmath": "cpp",
+			"iosfwd": "cpp",
+			"*.tcc": "cpp",
+			"bitset": "cpp",
+			"cstdlib": "cpp",
+			"shared_mutex": "cpp",
+			"iomanip": "cpp",
+			"numeric": "cpp"
+		}
+	}
+}
